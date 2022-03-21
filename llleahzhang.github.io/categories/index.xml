@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kross</title>
-    <link>http://demo.gethugothemes.com/kross/categories/</link>
+    <link>http://llleahzhang.github.io/categories/</link>
     <description>Recent content in Categories on Kross</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://demo.gethugothemes.com/kross/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://llleahzhang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>branding</title>
-      <link>http://demo.gethugothemes.com/kross/categories/branding/</link>
+      <link>http://llleahzhang.github.io/categories/branding/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://demo.gethugothemes.com/kross/categories/branding/</guid>
+      <guid>http://llleahzhang.github.io/categories/branding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>http://demo.gethugothemes.com/kross/categories/design/</link>
+      <link>http://llleahzhang.github.io/categories/design/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://demo.gethugothemes.com/kross/categories/design/</guid>
+      <guid>http://llleahzhang.github.io/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>http://demo.gethugothemes.com/kross/categories/development/</link>
+      <link>http://llleahzhang.github.io/categories/development/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://demo.gethugothemes.com/kross/categories/development/</guid>
+      <guid>http://llleahzhang.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>illustration</title>
-      <link>http://demo.gethugothemes.com/kross/categories/illustration/</link>
+      <link>http://llleahzhang.github.io/categories/illustration/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://demo.gethugothemes.com/kross/categories/illustration/</guid>
+      <guid>http://llleahzhang.github.io/categories/illustration/</guid>
       <description></description>
     </item>
     
